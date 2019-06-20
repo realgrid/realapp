@@ -1,0 +1,17 @@
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\bin\Release\RealAppsExcel.dll.config
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\bin\Release\RealAppsExcel.dll
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\bin\Release\RealAppsExcel.pdb
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\bin\Release\RealAppsExcel.dll.manifest
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\bin\Release\RealAppsExcel.vsto
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\bin\Release\Newtonsoft.Json.dll
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\bin\Release\Newtonsoft.Json.xml
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\obj\Release\RealAppsExcel.csprojAssemblyReference.cache
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\obj\Release\RealAppsExcel.CodeForm.resources
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\obj\Release\RealAppsExcel.Properties.Resources.resources
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\obj\Release\RealAppsExcel.RealGridAddin.resources
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\obj\Release\RealAppsExcel.csproj.GenerateResource.cache
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\obj\Release\RealAppsExcel.csproj.CoreCompileInputs.cache
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\obj\Release\RealAppsExcel.csproj.CopyComplete
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\obj\Release\RealAppsExcel.dll
+C:\Users\jun\source\repos\RealAppsExcel\RealAppsExcel\obj\Release\RealAppsExcel.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealAppsExcel", "RealAppsExcel\RealAppsExcel.csproj", "{402E0F25-CD95-4A77-9656-64E95FDDF37A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RealAppsExcelSetup", "RealAppsExcelSetup\RealAppsExcelSetup.vdproj", "{9501E4A0-28EA-4DD5-B4F3-893BF521E7E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402E0F25-CD95-4A77-9656-64E95FDDF37A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402E0F25-CD95-4A77-9656-64E95FDDF37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402E0F25-CD95-4A77-9656-64E95FDDF37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402E0F25-CD95-4A77-9656-64E95FDDF37A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9501E4A0-28EA-4DD5-B4F3-893BF521E7E5}.Debug|Any CPU.ActiveCfg = Debug
+		{9501E4A0-28EA-4DD5-B4F3-893BF521E7E5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180FD9CE-2474-448F-A391-086F1C3ECE5D}
+	EndGlobalSection
+EndGlobal
